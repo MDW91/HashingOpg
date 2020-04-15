@@ -1,0 +1,15 @@
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\bin\Debug\HashingOpg.exe.config
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\bin\Debug\HashingOpg.exe
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\bin\Debug\HashingOpg.pdb
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\MainWindow.g.cs
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\App.g.cs
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg_MarkupCompile.cache
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg_MarkupCompile.lref
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\MainWindow.baml
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg.g.resources
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg.Properties.Resources.resources
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg.csproj.GenerateResource.cache
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg.exe
+C:\Users\mathi\source\repos\HashingOpg\HashingOpg\obj\Debug\HashingOpg.pdb
